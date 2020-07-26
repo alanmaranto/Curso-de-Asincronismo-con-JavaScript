@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback2": "node src/callback/rick_morty.js"
+
   },
   "author": "",
   "license": "ISC",
