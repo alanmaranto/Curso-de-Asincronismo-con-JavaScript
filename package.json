@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "node src/callback/index.js",
     "callback2": "node src/callback/rick_morty.js",
-    "promise": "node src/promises/index.js"
+    "promise": "node src/promises/index.js",
+    "promise2": "node src/promises/rick_morty.js"
   },
   "author": "",
   "license": "ISC",
